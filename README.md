@@ -10,7 +10,6 @@ This is a basic ATM simulation project built using Python.
 ## Next Improvements
 - 3-attempt PIN retry
 - Card block system
-- Menu-based system
 
 ## How to Run
 python atm.py
